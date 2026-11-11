@@ -20,3 +20,9 @@ Instalar el controlador con `python -m pip install oracledb`. La conexión debe 
 
 ## Importante
 El modelo se preparó tomando como base la descripción textual del Avance 1. Antes de entregar, comparar todos los nombres y tipos de columnas con el diagrama relacional definitivo y probar los procedimientos en la versión de Oracle que use el curso.
+
+## Colaboradores
+
+- Sebastián Jesús Chacón Calvo — Colaborador del desarrollo y documentación del proyecto.
+- Isaac Monroy Brenes - Desarrollo
+- Jose Delgado  — Colaborador del desarrollo 
